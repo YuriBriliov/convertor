@@ -1,4 +1,4 @@
-# playrix_test
+# playrix
 
 ## Project setup
 ```
